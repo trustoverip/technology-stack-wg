@@ -1,17 +1,12 @@
 # ToIP Interoperability Profile List
 
-## TIP 5W1H
+## TIP Overview
 See [TIP Lifecycle Management](./TIP_LIFECYCLE_MANAGEMENT.md)
 
 ## Getting Started
+[Discover exiting TIPs or learn how to create your own](./TIP_GETTING_STARTED.md).
 
-### Starting a TIP
-TBD - Define Proposal / Application Process
-
-### Participating in a TIP
-TBD - Define Participation Proposal
-
-## TIP Lifecycle Management
+## TIP Directory
 
 | TIP Name | Status|
 | --- | --- |
