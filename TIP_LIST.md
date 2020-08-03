@@ -10,4 +10,4 @@ See [TIP Lifecycle Management](./TIP_LIFECYCLE_MANAGEMENT.md)
 
 | TIP Name | Status|
 | --- | --- |
-| [SaturnV]() | Not-Yet-Proposed |
+| [Saturn V](https://github.com/trustoverip/technical-stack-wg/blob/master/_proposals/saturn-v-tip.md) | Proposed |
