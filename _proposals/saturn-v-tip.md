@@ -26,14 +26,14 @@ The following vendors are [activity working on interoperability](https://docs.go
 * Telus/ATB-Financial
 * Trinsic
 
-### Technical Stack Proposal
-<font color='cyan'>Identify the technologies associated with each layer of the ToIP Stack that will help to define this TIP.</font>
+### Key Motivators
+<font color='cyan'>List the reasons that triggered the proposal.</font>
 
-| ToIP Technical Stack Layer | TIP Technology |
-| --- | --- |
-| Three | Hyperledger Aries |
-| Two | Hyperledger Aries |
-| One | Hyperledger Indy |
+1. We need to describe an example TIP that is of interest to many in the ToIP Foundation.
+2. As the Sovrin Community transitions under the broader umbrella of the ToIP Foundation, we need a description of the architecture in which the community desires to embrace.   
+3. We need a methodology that will allow alternative TIPs to be compared to the one most familiar with many in the ToIP Foundation.
+4. We need a forum for the
+[Indy Interop-athon](https://wiki.hyperledger.org/pages/viewpage.action?pageId=36734079) events that are focused on making the network of networks concepts reality of public identity utilities based on Hyperledger Indy.
 
 ### Core Principles
 The stakeholders believe that the proposed technical stack is purpose built to provide the foundational infrastructure necessary to support the [10 Core Principles](https://docs.google.com/document/d/1WqUOqdTBc3JACIlRviJoWJRcJHTNTNzk9_As9v-jwrY/edit#heading=h.ws45zwyr4hfb) that were adopted by the [Sovrin Foundation](http://sovrin.org). As the decentralized identity community evolves into a network of networks model, these principles will help shape the applicability of solutions.
@@ -51,14 +51,14 @@ The stakeholders believe that the proposed technical stack is purpose built to p
 | Minimization | Disclosure of claims must be minimized. |
 | Protection | The rights of users must be protected. |
 
-### Key Motivators
-<font color='cyan'>List the reasons that triggered the proposal.</font>
+### Technical Stack Proposal
+<font color='cyan'>Identify the technologies associated with each layer of the ToIP Stack that will help to define this TIP.</font>
 
-1. We need to describe an example TIP that is of interest to many in the ToIP Foundation.
-2. As the Sovrin Community transitions under the broader umbrella of the ToIP Foundation, we need a description of the architecture in which the community desires to embrace.   
-3. We need a methodology that will allow alternative TIPs to be compared to the one most familiar with many in the ToIP Foundation.
-4. We need a forum for the
-[Indy Interop-athon](https://wiki.hyperledger.org/pages/viewpage.action?pageId=36734079) events that are focused on making the network of networks concepts reality of public identity utilities based on Hyperledger Indy.
+| ToIP Technical Stack Layer | TIP Technology |
+| --- | --- |
+| Three | Hyperledger Aries |
+| Two | Hyperledger Aries |
+| One | Hyperledger Indy |
 
 ### Use cases to be validated
 In addition to the common business patterns associated with decentralized identity, namely `password-less auth` and `digital onboarding`, this TIP proposal will [build on existing proof-points](https://sovrin.org/category/use-cases/) to establish a generalized list of uses-cases that will help to demonstrate cross-industry adoption.
