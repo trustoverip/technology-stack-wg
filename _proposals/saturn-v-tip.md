@@ -12,7 +12,8 @@ Today, the decentralized identity community continues the *moon shot* started by
 
 ### Convener(s)
 
-* Richard Esplin
+* Stephen Curran (*nominated*)
+* Richard Esplin (*nominated*)
 * Dan Gisolfi
 
 ### Stakeholders
@@ -56,6 +57,8 @@ The stakeholders believe that the proposed technical stack is purpose built to p
 1. We need to describe an example TIP that is of interest to many in the ToIP Foundation.
 2. As the Sovrin Community transitions under the broader umbrella of the ToIP Foundation, we need a description of the architecture in which the community desires to embrace.   
 3. We need a methodology that will allow alternative TIPs to be compared to the one most familiar with many in the ToIP Foundation.
+4. We need a forum for the
+[Indy Interop-athon](https://wiki.hyperledger.org/pages/viewpage.action?pageId=36734079) events that are focused on making the network of networks concepts reality of public identity utilities based on Hyperledger Indy.
 
 ### Use cases to be validated
 In addition to the common business patterns associated with decentralized identity, namely `password-less auth` and `digital onboarding`, this TIP proposal will [build on existing proof-points](https://sovrin.org/category/use-cases/) to establish a generalized list of uses-cases that will help to demonstrate cross-industry adoption.
