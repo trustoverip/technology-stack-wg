@@ -1,3 +1,3 @@
-# ToIP Technical Stack Working Group ("TSWG")
+# ToIP Technology Stack Working Group ("TSWG")
 
-The ToIP Technical Stack Working Group.
+The ToIP Technology Stack Working Group.
