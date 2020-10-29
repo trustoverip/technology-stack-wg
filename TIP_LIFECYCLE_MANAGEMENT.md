@@ -15,17 +15,27 @@ A TIP definition will:
 * clearly position standards, protocols and software components (collectively, "technologies") against each layer of the [ToIP Technical Stack]().  
 * demonstrate incubation activity towards the market adoption of the architecture using a set of *key adoption indicators (KAI)*.
 
-As a TIP is incubated in the marketplace, several work-products will provide evidence of its maturation.
+As a TIP is incubated in the marketplace, several work-products will provide evidence of its maturation. TIPs can be designed, refined and supported by multiple vendors and customers wishing to collaborate on interoperability. A TIP typically includes the following elements critical to industry success:
 
-* **Core Principles**: Market requirements are necessary when combining technology to formulate a solution architecture.
-* **White-paper**: Documentation outlining purpose, principles and architecture for the TIP.
+* **Use cases**: Descriptive application scenarios capturing the specific requirements of customers in one or more digital trust ecosystems.
+* **Design Principles**: Market requirements are necessary when combining technology to formulate a solution architecture. Yet technology alone does not make a solution. Design Principles help to clearly define how the combination of technology and business policies formulate a solution architecture.
+* **White-paper**: Documentation that clearly communicates the design, architecture, features, and benefits of a TIP to a digital trust ecosystems targeted for adoption.
 * **Market Dynamics**:
 
-    * **Adoption Metrics**: Use case correlation backed by case study references demonstrate adoption.
-    * **Interoperability Testing**: Community driven certification of test cases and results.
-    * **Vendor Support**: Vertical integration of the technical stack must be supported by vendors that can demonstrate the interoperability between vendor solutions that adhere to a common vertical architecture.
+    * **Adoption Metrics**: Case study references that provide quantifiable evidence of the real market impact.
+    * **Interoperability Testing**: Community driven certification of test cases and results.    
+    * **Vendor Support**: Vertical integration of the technical stack must be supported by vendors that can demonstrate the interoperability between multiple vendor solutions that support the TIP.
 
-* **Best Practices**: Implementation guidance for adoption as well as recommendations for interlock with the Governance Stack.
+* **Best Practices**: Implementation guidance for adoption of a TIP, including how to incorporate policies from the ToIP governance stack.
+
+TIPs harness market forces to drive convergence on interoperability
+
+As technology evolves, TIPs will also evolve. This implies that during the lifecycle of a TIP, the various underlying components required to enable a solution will be comprised of an array of standardized and customized components. As depicted by the conceptual “lego block” picture below of a complete four-layer TIP—showing how it is constructed from a combination of of ToIP Deliverables (including ToIP Standard Specifications (TSS)) and custom TIP-specific components.
+
+![lego-gaps](./_images/tip-gap-legos.png)
+
+* <font color="blue">Fully-standardized components of the ToIP stack.</font> These components are ToIP deliverables that have already gained Foundation-wide approval.
+* <font color="red">Custom components that are specific to a TIP.</font> Some places in the ToIP stack do not yet have agreed-upon specifications. For these gaps, a TIP must specify how it fills the gap via an open community specification that can be implemented by any vendor or open source project.
 
 ### Why do we need TIPs?
 Ultimately, entities (business, governments, organizations) that seek to participate in an interoperable digital trust marketplace will need to assess (compare) solution architectures. Analogous to a Request for Proposal (RFP) process, entities should be able to align their requirements with the principles and expectations described by a TIP and use such a comparison exercise to make educated decisions. Allow when to compare apples-to-apples and when necessary enable clear articulation of apples-to-oranges activities.
